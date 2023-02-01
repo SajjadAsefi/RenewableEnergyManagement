@@ -1,5 +1,5 @@
 function [Z,x]=fitness_24_3(x,lb,ub,data1)
-pause(10)
+
 hours=24;
 for ww=1:hours
 %% initial variables
